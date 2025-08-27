@@ -1,0 +1,36 @@
+For every communication system, there will always be error! 
+The signal will be changed, always. 
+
+Development of new services and advancements in technology drive traffic growth 
+
+More newer and newer applications require more speed & bandwidth (also new applications require more bandwidth) 
+
+When sending data: 
+choose transmission media (like air or empty space for wireless) 
+ - most wireless use radio frequency 
+ - underwater use ultrasound (like 2 submarines)
+ - could use sound (like person talking to computer, or old modems screeching) 
+ - maybe mechanical waves like 
+
+could also use wired 
+ - mostly copper wire 
+ - ethernet, coax, fiber optic 
+
+modulation/demodulation scheme 
+
+error detection, error control, flow control
+- all communication has errors! This needs to be accounted for 
+- flow control is to control speed e.g. if someone is talking much faster than someone else can understand 
+
+Link Layer: 
+ - error detection
+ - error control 
+ - flow control 
+
+Physical layer: 
+ - modulation/demodulation
+ - transmission media
+
+
+
+
