@@ -1,0 +1,5 @@
+Q1: data communication is sending data over a network, a computer network is a configuration of computers 
+
+choose language, choose method, how this method is sent 
+
+Data communication is about how data is encoded for transport, network is about how to deliver the encoded data. 
